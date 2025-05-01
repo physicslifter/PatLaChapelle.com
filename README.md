@@ -1,5 +1,4 @@
-# PatLaChapelle.com  
-Hi, welcome to my website! What do you want to do?  
+ Hi, welcome to my website! What do you want to do?  
 View my Resume  
 Browse my projects  
 Check out my Github  
