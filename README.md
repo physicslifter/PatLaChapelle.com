@@ -1,5 +1,5 @@
  Hi, welcome to my website! What do you want to do?  
-[View my Resume] (https://www.patlachapelle/Resume)  
+[View my Resume](https://www.patlachapelle/Resume)  
 Browse my projects  
 Check out my Github  
 View my art portfolio  
