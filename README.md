@@ -8,7 +8,7 @@ View my art portfolio
 
 --
 
-COMING SOON!
+COMING SOON!  
 View my old websites (current version is V2)  
 V0  
 V1  
