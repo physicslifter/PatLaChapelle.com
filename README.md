@@ -1,9 +1,9 @@
  Hi, welcome to my website! What do you want to do?  
 [View my Resume](https://www.patlachapelle.com/Resume)  
-Browse my projects  
-Check out my Github  
+[View my Portfolio](https://www.patlachapelle.com/Portfolio)  
+[Check out my Github](https://www.github.com/physicslifter)  
 View my art portfolio  
-Contact me  
+[Contact me](mailto:patlachapelle3@gmail.com)  
 
 --
   
